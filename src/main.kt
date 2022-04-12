@@ -2,6 +2,7 @@
 //the strings at even indices 2,4,6 etc
 fun main(){
     var myList=allies(listOf("Cudra","Mike","Sasha","Nur","Din","Ash","Nash","Halish","Rash","Miriam"))
+    println(myList)
 
     var totalAdds=peopHeight(listOf(1,2,3,4,5))
     println(totalAdds)
